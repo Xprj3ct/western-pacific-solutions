@@ -1,0 +1,8 @@
+#mobile-nav {
+    z-index: 50 !important;
+}
+
+#forward {
+    z-index: 100 !important;
+    background-color: white !important;
+}
